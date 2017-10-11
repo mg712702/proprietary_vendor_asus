@@ -404,7 +404,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/vendor/lib/egl/libRBGLESv1_CM_adreno.so:system/vendor/lib/egl/libRBGLESv1_CM_adreno.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/egl/libRBGLESv2_adreno.so:system/vendor/lib/egl/libRBGLESv2_adreno.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
-    vendor/asus/msm8916-common/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/hw/sound_trigger.primary.msm8916.so:system/vendor/lib/hw/sound_trigger.primary.msm8916.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
@@ -497,13 +496,9 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
-    vendor/asus/msm8916-common/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
-    vendor/asus/msm8916-common/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
-    vendor/asus/msm8916-common/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
-    vendor/asus/msm8916-common/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libllvm-glnext.so:system/vendor/lib/libllvm-glnext.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
