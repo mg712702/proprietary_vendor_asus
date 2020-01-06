@@ -420,7 +420,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/lib64/libmplmpu.so:system/lib64/libmplmpu.so \
     vendor/asus/msm8916-common/proprietary/lib64/libtfa9887.so:system/lib64/libtfa9887.so \
     vendor/asus/msm8916-common/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
-    vendor/asus/msm8916-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/asus/msm8916-common/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
@@ -583,7 +582,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libsmwrapper.so:system/vendor/lib/libsmwrapper.so \
-    vendor/asus/msm8916-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libxditk_DIT_MSM8916.so:system/vendor/lib/libxditk_DIT_MSM8916.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libxditk_DIT_Qualcomm.so:system/vendor/lib/libxditk_DIT_Qualcomm.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libxditk_Network.so:system/vendor/lib/libxditk_Network.so \
@@ -695,8 +693,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libsmemlog.so:system/vendor/lib64/libsmemlog.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
-    vendor/asus/msm8916-common/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
-    vendor/asus/msm8916-common/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libvcel.so:system/vendor/lib64/libvcel.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libvoice-svc.so:system/vendor/lib64/libvoice-svc.so \
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so
